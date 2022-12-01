@@ -13,8 +13,8 @@
 
 <div align="left">
   <a href="https://github.com/toshiosam">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=toshiosam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshiosam&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="380 em"  width="350 em" src="https://github-readme-stats.vercel.app/api?username=toshiosam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="380 em"  width="350 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshiosam&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 
