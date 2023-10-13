@@ -1,7 +1,7 @@
 ## Olá Sou Lucas Toshio, mas pode me chamar se Tosh, iniciando no mundo DEV!
 - 🖥️ Cursando tecnico em TI redes na UFRN 
 - 🤖 Voluntario na plataforma Obama de ensino de matemática  
-- 👾 Estudando back-end
+- 👾 desenvolvedor flutter
 - 😄 Pronouns:ele/dele
 
 ![grande onda](https://user-images.githubusercontent.com/101885085/205043705-53fe765e-5464-4a94-ab75-4db3376f6443.jpg)
